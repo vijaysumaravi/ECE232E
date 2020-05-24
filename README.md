@@ -3,3 +3,5 @@ This is a repository of the projects done as part of the coursework for ECE 232E
 Project 1: Random Graphs and Random Walks
 
 Project 2: Social Network Mining
+
+Project 3: Reinforcement learning and Inverse Reinforcement learning
